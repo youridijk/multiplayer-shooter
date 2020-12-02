@@ -13,13 +13,13 @@ Zet hier taken neer die nog gedaan moeten worden door iemand. Als je een taak af
 - Beginscherm mooi design maken (met de mogelijkheid om single player tegen bots, multiplayer tegen bots en multiplayer tegen elkaar te spelen) ❌
 - De logica achter het beginscherm maken ❌
 
-# Github dekstop
+## Github dekstop
 Voor het downloaden van het project en het uploaden van jouw wijzigingen naar deze repo (de multi user plugin is nog in beta en werkt nog niet perfect, daarom gebruiken we deze repo als backup) raad ik [Github desktop](https://desktop.github.com) aan.
 
-# Mark down cheatsheet
+## Mark down cheatsheet
 [Hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) vind je een cheatsheet voor mark down (.md).
 
-# Multi User 
+## Multi User 
 Multi user server is online, maar je hebt wel een VPN verbiding nodig. Volg de stappen hiervoor hieronder:
 1. Download nieuwste versie van het project vanaf hier
 
@@ -34,7 +34,7 @@ Multi user server is online, maar je hebt wel een VPN verbiding nodig. Volg de s
 
 Als het niet lukt, vraag mij dan om hulp
 
-# Enviorments
+## Enviorments
 - https://www.youtube.com/watch?v=J-zJwzMTdLY
 - https://www.youtube.com/watch?v=t7jvPz56mxM
 
