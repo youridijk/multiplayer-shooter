@@ -4,13 +4,13 @@ Ons game project
 ## To-do list
 Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan moeten worden. Als je een taak gedaan hebt verander het kruisje in een vinkje en zet je naam erbij (je naam zet je erbij zodat anderen met vragen of probelemen over die taak weten bij wie ze moeten zijn). Als je bezig gaat met een taak zet naam in de "Wie?" kolom (zodat niet iedereen aan dezelfde taak werkt). Samenwerken met een andere an dezelfde taak kan, zet er dan 2 namen neer.
 
-| Taak                                                      | Af?  | Gedaan door | Wie? (Alleen zelf invullen |
-|-----------------------------------------------------------|------|-------------| ------- |
-| Project toevoegen aan deze repo                           |  ✅  | Youri       |         |
-| Unreal Engine Multi User server opzetten                  |  ✅  | Youri       |         |
-| Herlaad functie maken                                     |  ✅  | Youri       |         |
-| Speler logica maken                                       |  ✅  | Youri       |         |
-| Mogelijkheid om speler info op te slaan toe voegen        |  ❌  |             |  Youri  |
+| Taak                                                      | Af?  | Gedaan door | Wie? (Alleen zelf invullen) |
+|-----------------------------------------------------------|------|-------------| --------------------------- |
+| Project toevoegen aan deze repo                           |  ✅  | Youri       |                             |
+| Unreal Engine Multi User server opzetten                  |  ✅  | Youri       |                             |
+| Herlaad functie maken                                     |  ✅  | Youri       |                             |
+| Speler logica maken                                       |  ✅  | Youri       |                             |
+| Mogelijkheid om speler info op te slaan toe voegen        |  ❌  |             |  Youri                      |
 | Mogelijkheid een speler naam in te voeren maken           |  ❌  |
 | Basis map maken (een simpele versie voor development)     |  ❌  |
 | Begin maken aan bots                                      |  ❌  |
