@@ -18,7 +18,7 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | De logica achter het beginscherm maken                    |  ❌  |
 | Assets voor de spelers maken/ opzoeken                    |  ❌  |
 | Assets voor de bots (in stijl van robots) maken/ opzoeken |  ❌  |
-|                                                           |      |
+
 <br><br/>
 
 ## Taakverdeling
@@ -34,7 +34,7 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | 2e levelmap maken voor afwisseling (optioneel)        |   X   |   X   |        |       |
 | Optie voor eigen levelmap toevoegen maken (optioneel) |       |       |    X   |   X   |
 | Basis voor multiplayer (optioneel)                    |       |       |        |   X   |
-|                                                       |       |       |        |       |
+
 <br><br/>
 
 ## Github dekstop
