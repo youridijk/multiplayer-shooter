@@ -1,5 +1,5 @@
 # Multiplayer-shooter
-Our multiplayer first-person shooter game, made for school 
+Ons game project
 
 ## To-do list
 Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan moeten worden. Als je een taak gedaan hebt verander het kruisje in een vinkje en zet je naam erbij (je naam zet je erbij zodat anderen met vragen of probelemen over die taak weten bij wie ze moeten zijn). Als je bezig gaat met een taak zet naam in de "Wie?" kolom (zodat niet iedereen aan dezelfde taak werkt). Samenwerken met een andere an dezelfde taak kan, zet er dan 2 namen neer.
