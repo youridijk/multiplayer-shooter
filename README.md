@@ -16,6 +16,9 @@ Zet hier taken neer die nog gedaan moeten worden door iemand. Als je een taak af
 # Github dekstop
 Voor het downloaden van het project en het uploaden van jouw wijzigingen naar deze repo (de multi user plugin is nog in beta en werkt nog niet perfect, daarom gebruiken we deze repo als backup) raad ik [Github desktop](https://desktop.github.com) aan.
 
+# Mark down cheatsheet
+[Hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) vind je een cheatsheet voor mark down (.md).
+
 # Multi User 
 Multi user server is online, maar je hebt wel een VPN verbiding nodig. Volg de stappen hiervoor hieronder:
 1. Download nieuwste versie van het project vanaf hier
