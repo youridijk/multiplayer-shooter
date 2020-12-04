@@ -18,6 +18,7 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | De logica achter het beginscherm maken                    |  ❌  |
 | Assets voor de spelers maken/ opzoeken                    |  ❌  |
 | Assets voor de bots (in stijl van robots) maken/ opzoeken |  ❌  |
+| Recoil toevoegen aan wapens                               |  ❌  |
 
 <br><br/>
 
