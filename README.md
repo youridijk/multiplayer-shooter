@@ -10,8 +10,8 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | Unreal Engine Multi User server opzetten                  |  ✅  | Youri       |                             |
 | Herlaad functie maken                                     |  ✅  | Youri       |                             |
 | Speler logica maken                                       |  ✅  | Youri       |                             |
-| Mogelijkheid om speler info op te slaan toe voegen        |  ❌  |             |  Youri                      |
-| Mogelijkheid een speler naam in te voeren maken           |  ❌  |
+| Mogelijkheid om speler info op te slaan toe voegen        |  ✅  | Youri       |  Youri                      |
+| Mogelijkheid een speler naam in te voeren maken           |  ✅  | Youri       |                             |
 | Basis map maken (een simpele versie voor development)     |  ❌  |
 | Begin maken aan bots                                      |  ❌  |
 | Beginscherm mooi design maken                             |  ❌  |
