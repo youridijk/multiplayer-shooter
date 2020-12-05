@@ -60,8 +60,9 @@ Multi user server is online, maar je hebt wel een VPN verbiding nodig. Volg de s
 
 Als het niet lukt, vraag mij dan om hulp
 
-## Enviorments
+## Enviorments en assets
 - https://www.youtube.com/watch?v=J-zJwzMTdLY
 - https://www.youtube.com/watch?v=t7jvPz56mxM
-
-
+- [LAVIFV](https://unrealengine.com/marketplace/en-US/product/lavifv-infantry-fighting-vehicle)
+- [Modular Sci-Fi season 2 environment](https://unrealengine.com/marketplace/en-US/product/modular-scifi-season-2-starter-bundle)
+- [Mech TL-22](https://sketchfab.com/3d-models/mech-tl-22-2694c68765aa4f67ab81a259ff39d654)
