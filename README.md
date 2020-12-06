@@ -12,14 +12,14 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | Speler logica maken                                       |  ✅  | Youri       |                             |
 | Mogelijkheid om speler info op te slaan toe voegen        |  ✅  | Youri       |  Youri                      |
 | Mogelijkheid een speler naam in te voeren maken           |  ✅  | Youri       |                             |
-| Basis map maken (een simpele versie voor development)     |  ❌  |
-| Begin maken aan bots                                      |  ❌  |
+| Basis map maken (een simpele versie voor development)     |  ❌  |              
+| Begin maken aan bots                                      |  ❌  |             | Youri (ik kan hulp gebruiken)
 | Beginscherm mooi design maken                             |  ❌  |
 | De logica achter het beginscherm maken                    |  ❌  |
 | Assets voor de spelers maken/ opzoeken                    |  ❌  |
 | Assets voor de bots (in stijl van robots) maken/ opzoeken |  ❌  |
 | Recoil toevoegen aan wapens                               |  ✅  | Youri       | 
-| Grenaten toevoegen aan speler                             |  ❌  | 
+| Grenaten toevoegen aan speler                             |  ❌  |             | Wouter
 
 <br><br/>
 
