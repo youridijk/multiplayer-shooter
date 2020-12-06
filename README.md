@@ -66,3 +66,7 @@ Als het niet lukt, vraag mij dan om hulp
 - [LAVIFV](https://unrealengine.com/marketplace/en-US/product/lavifv-infantry-fighting-vehicle)
 - [Modular Sci-Fi season 2 environment](https://unrealengine.com/marketplace/en-US/product/modular-scifi-season-2-starter-bundle)
 - [Mech TL-22](https://sketchfab.com/3d-models/mech-tl-22-2694c68765aa4f67ab81a259ff39d654)
+- [Robots hard bone](https://sketchfab.com/3d-models/robots-hard-borne-167fcf37ad404e5ca0b06b4588d3eea5)
+- [Terminator T800](https://sketchfab.com/3d-models/terminator-t-800-dd9b3744c30e4bf58aa6f57da00c1eb0)
+- [Drone concept](https://sketchfab.com/3d-models/drone-concept-cde78a97ce3d4882b68463e4fb821d8b)
+- [Military Drone](https://sketchfab.com/3d-models/military-suppression-drone-rsd-1-droid-19994e164a0d4ba082230d98fcf58b44)
