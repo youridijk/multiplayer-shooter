@@ -20,7 +20,7 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | Assets voor de bots (in stijl van robots) maken/ opzoeken |  ❌  |
 | Recoil toevoegen aan wapens                               |  ✅  | Youri       | 
 | Grenaten toevoegen aan speler                             |  ❌  |             | Wouter
-
+| Grenaat gooi animatie(s) toevoegen                        |  ❌
 <br><br/>
 
 ## Taakverdeling
