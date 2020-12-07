@@ -12,7 +12,7 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | Speler logica maken                                       |  ✅  | Youri       |                             |
 | Mogelijkheid om speler info op te slaan toe voegen        |  ✅  | Youri       |  Youri                      |
 | Mogelijkheid een speler naam in te voeren maken           |  ✅  | Youri       |                             |
-| Basis map maken (een simpele versie voor development)     |  ❌  |              
+| Basis map maken (een simpele versie voor development)     |  ❌  |             | Timon en Stijn
 | Begin maken aan bots                                      |  ❌  |             | Youri (ik kan hulp gebruiken)
 | Beginscherm mooi design maken                             |  ❌  |
 | De logica achter het beginscherm maken                    |  ❌  |
