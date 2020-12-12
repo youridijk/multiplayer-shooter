@@ -6,6 +6,5 @@ Content/ProceduralNaturePack/Textures/ground_mud_bsm_8192.uasset filter=lfs diff
 Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_bsm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
-Content/ProceduralNaturePack/Textures/ground_mud_nrm_8192.uassetContent/ProceduralNaturePack/Textures/ground_mud_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
