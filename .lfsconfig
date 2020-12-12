@@ -1,2 +1,4 @@
 [lfs]
-    url = "https://Youri:password@myadoran:5467/"
+    pushurl = "https://youri.myadoran.com"
+    url = "https://youri.myadoran.com"
+
