@@ -8,3 +8,7 @@ Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_nrm_8192.uasset filte
 Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_nrm_8192.uasset filter=lfs diff=lfs merge=lfs -text
 Content/ProceduralNaturePack/Textures/ground_mud_rgm_8192.uasset filter=lfs diff=lfs merge=lfs -text
+Content/ProceduralNaturePack/EPIC_StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
+Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_spe_8192.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/Yourivulkaan.umap filter=lfs diff=lfs merge=lfs -text
+Content/Maps/Yourivulkaan_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
