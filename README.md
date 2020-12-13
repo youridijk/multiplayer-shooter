@@ -21,6 +21,9 @@ Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan 
 | Recoil toevoegen aan wapens                               |  ✅  | Youri       | 
 | Grenaten toevoegen aan speler                             |  ❌  |             | Wouter
 | Grenaat gooi animatie(s) toevoegen                        |  ❌
+| Random lopen als de bot de player niet ziet               |  ❌
+| Heen en weer lopen tijdens schieten voor de bot           |  ❌
+| Bot minstens 2000 afstand van player laten spawnen        |  ❌
 <br><br/>
 
 ## Taakverdeling
