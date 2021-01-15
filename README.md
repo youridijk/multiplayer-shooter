@@ -4,23 +4,26 @@ Ons game project
 ## To-do list
 Zet hier taken neer die we van te voren niet hebben bedacht, maar alsnog gedaan moeten worden. Als je een taak gedaan hebt verander het kruisje in een vinkje en zet je naam erbij (je naam zet je erbij zodat anderen met vragen of probelemen over die taak weten bij wie ze moeten zijn). Als je bezig gaat met een taak zet naam in de "Wie?" kolom (zodat niet iedereen aan dezelfde taak werkt). Samenwerken met een andere an dezelfde taak kan, zet er dan 2 namen neer.
 
-| Taak                                                      | Af?  | Gedaan door | Wie? (Alleen zelf invullen) |
-|-----------------------------------------------------------|------|-------------| --------------------------- |
+| Taak                                                      | Af?  | Gedaan door | Wie? (Alleen zelf invullen) | Opmerkingen                                       |
+|-----------------------------------------------------------|------|-------------| --------------------------- |---------------------------------------------------|
 | Project toevoegen aan deze repo                           |  ✅  | Youri       |                             |
 | Unreal Engine Multi User server opzetten                  |  ✅  | Youri       |                             |
 | Herlaad functie maken                                     |  ✅  | Youri       |                             |
 | Speler logica maken                                       |  ✅  | Youri       |                             |
 | Mogelijkheid om speler info op te slaan toe voegen        |  ✅  | Youri       |  Youri                      |
 | Mogelijkheid een speler naam in te voeren maken           |  ✅  | Youri       |                             |
-| Basis map maken (een simpele versie voor development)     |  ❌  |              
-| Begin maken aan bots                                      |  ❌  |             | Youri (ik kan hulp gebruiken)
+| Basis map maken (een simpele versie voor development)     |  ❌  |             | Timon en Stijn
+| Begin maken aan bots                                      |  ✅  | Youri       | Youri                       | De basis is klaar maar bots moeten nog verder uitgewerkt worden (zie onderaan deze lijst)|
 | Beginscherm mooi design maken                             |  ❌  |
 | De logica achter het beginscherm maken                    |  ❌  |
 | Assets voor de spelers maken/ opzoeken                    |  ❌  |
 | Assets voor de bots (in stijl van robots) maken/ opzoeken |  ❌  |
 | Recoil toevoegen aan wapens                               |  ✅  | Youri       | 
 | Grenaten toevoegen aan speler                             |  ❌  |             | Wouter
-
+| Grenaat gooi animatie(s) toevoegen                        |  ❌
+| Random lopen als de bot de player niet ziet               |  ❌
+| Heen en weer lopen tijdens schieten voor de bot           |  ❌
+| Bot minstens 2000 afstand van player laten spawnen        |  ❌
 <br><br/>
 
 ## Taakverdeling
@@ -70,3 +73,5 @@ Als het niet lukt, vraag mij dan om hulp
 - [Terminator T800](https://sketchfab.com/3d-models/terminator-t-800-dd9b3744c30e4bf58aa6f57da00c1eb0)
 - [Drone concept](https://sketchfab.com/3d-models/drone-concept-cde78a97ce3d4882b68463e4fb821d8b)
 - [Military Drone](https://sketchfab.com/3d-models/military-suppression-drone-rsd-1-droid-19994e164a0d4ba082230d98fcf58b44)
+- [Realistic Forest Pack](https://www.unrealengine.com/marketplace/en-US/product/realistic-forest-pack)
+- [Procedural Nature Pack](https://www.unrealengine.com/marketplace/en-US/product/procedural-nature-pack-vol)
