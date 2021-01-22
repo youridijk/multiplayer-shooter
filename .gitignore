@@ -16,3 +16,5 @@ stage/
 Build/
 Binaries/
 *_BuiltData.uasset
+Content/Developers/
+Content/Collections/
